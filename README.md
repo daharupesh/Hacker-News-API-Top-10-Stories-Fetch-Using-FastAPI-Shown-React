@@ -1,3 +1,3 @@
-## FROM Hacker News API Fetch top 10 Stories Using FastAPI and Shown in React FrontEnd
+## Fetch Top 10 Stories from Hacker News API Using FastAPI and Display Them in a React Frontend
 
-![Output Screenshoot](Screenshot 2024-09-16 233529.png)
+![Output Screenshot](Screenshot-2024-09-16-233529.png)
